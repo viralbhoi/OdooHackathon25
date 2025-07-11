@@ -1,1 +1,1 @@
-#Odoo Hackathon 2025
+# Odoo Hackathon 2025
